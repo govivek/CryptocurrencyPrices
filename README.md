@@ -1,12 +1,11 @@
 # CryptocurrencyPrices
 Real time cryptocurrency prices
 
-```
 **Programmed in Python**
 
 # How it works
 ```
-Program sends requests on Kraken and Bitstamp public end-point API and recive back real-time prices of Cryptocurrencies.
+Program sends requests on Kraken and Bitstamp public end-point API and recieve back real-time prices of Cryptocurrencies.
 
 ```
 # How to use
